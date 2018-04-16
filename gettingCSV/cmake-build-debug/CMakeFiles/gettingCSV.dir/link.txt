@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gettingCSV.dir/main.cpp.o  -o gettingCSV 

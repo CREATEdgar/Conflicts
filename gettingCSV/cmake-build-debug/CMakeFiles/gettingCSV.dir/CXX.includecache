@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/edgar/CLionProjects/gettingCSV/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+iomanip
+-
+sstream
+-
+vector
+-
+
